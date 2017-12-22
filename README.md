@@ -1,6 +1,6 @@
-# id2207-final-project
+# Firebase Demo
 
-> A Vue.js project with Firebase backend
+> A Vue.js SPA project with Firebase backend
 
 ## Build Setup
 
